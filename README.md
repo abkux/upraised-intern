@@ -7,6 +7,6 @@
 > https://upraised.blr.abku.dev/
 
 ### Swagger Docs
-> https://upraised.bkr.abku.dev/docs
+> https://upraised.blr.abku.dev/docs
 
 Contact: theabku@gmail.com : )
